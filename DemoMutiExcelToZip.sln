@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "DemoMutiExcelToZip", "DemoMutiExcelToZip\", "{971699BD-4109-437D-8CB3-BBE3342626A7}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_11774"
+		Debug.AspNetCompiler.PhysicalPath = "DemoMutiExcelToZip\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11774\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_11774"
+		Release.AspNetCompiler.PhysicalPath = "DemoMutiExcelToZip\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_11774\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "11774"
+		SlnRelativePath = "DemoMutiExcelToZip\"
+		DefaultWebSiteLanguage = "Visual Basic"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971699BD-4109-437D-8CB3-BBE3342626A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971699BD-4109-437D-8CB3-BBE3342626A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA9CAB4-599C-4990-A298-1C9FFE3C71DC}
+	EndGlobalSection
+EndGlobal
